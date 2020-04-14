@@ -3,7 +3,7 @@ def using_concat (my_favorite_things, more_favs)
 end
 
 def using_insert (array, new_element)
- array.insert(3, new_element)
+ array.insert(3, another_language)
 end
 
 describe "using_insert" do 
