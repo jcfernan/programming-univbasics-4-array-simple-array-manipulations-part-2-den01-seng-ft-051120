@@ -3,7 +3,7 @@ def using_concat (my_favorite_things, more_favs)
 end
 
 def using_insert (array, element)
- array.insert(3, element)
+ array.insert(3, new_element)
 end
 
 def using_uniq (array)
